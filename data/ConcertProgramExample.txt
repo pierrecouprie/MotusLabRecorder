@@ -1,0 +1,4 @@
+1,work "François Wong Orisan (avec vue sur vallée)" 0.11.48 "Jonathan Prager";
+2,work "Claude Hermite Etudes aux objets trouvés" 0.9.09 "Jonathan Prager";
+3,work "Gaëtan Parseihian  Derniers soupirs" 0.13.0 "Jonathan Prager";
+4,work "Jonathan Oberlander Portrait d’Inanna d’Uruk" 0.15.35 "Jonathan Prager“;
