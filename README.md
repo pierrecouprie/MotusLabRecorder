@@ -1,5 +1,5 @@
 # MotusLab Recorder
-Version 3.0.0
+Version 3.0.2
 
 MotusLab Recorder is a patch to record faders motions from 1 or 2 digital mixing tables (up to 25 faders each), 4 webcams, and an audio stereo input.
 
